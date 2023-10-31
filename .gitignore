@@ -5,6 +5,9 @@
 /code/dist
 /coverage
 
+.idea
+
+
 # misc
 .DS_Store
 .env.local
